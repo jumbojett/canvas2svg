@@ -782,7 +782,7 @@
             y : y,
             width : width,
             height : height,
-            fill : "#FFFFFF"
+            fill : "rgba(0,0,0,0)"
         }, true);
         parent.appendChild(rect);
     };
